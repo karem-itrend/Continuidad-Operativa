@@ -1,2 +1,2 @@
-# continuidad-operativa
-Storymap Especial continuidad operativa Itrend
+# nota_topicos
+imagenes
